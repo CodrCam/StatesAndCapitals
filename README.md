@@ -54,7 +54,7 @@ Make sure you have the following software installed:
 
 ## Authors
 
-- Your Name - [CodrCam](https://github.com/CodrCam)
+- Cameron Griffin - [CodrCam](https://github.com/CodrCam)
 
 ## License
 
